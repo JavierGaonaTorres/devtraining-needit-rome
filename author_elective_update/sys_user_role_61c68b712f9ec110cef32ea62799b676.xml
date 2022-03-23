@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_58872_needit.Empleado</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>Empleado</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-18 17:14:05</sys_created_on>
+        <sys_id>61c68b712f9ec110cef32ea62799b676</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_58872_needit.Empleado</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_user_role_61c68b712f9ec110cef32ea62799b676</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-18 17:24:51</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>e811c4f9dba5730491232f17d4961999</instance_id>
+        <instance_name>dev86006</instance_name>
+        <name>sys_user_role_61c68b712f9ec110cef32ea62799b676</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_58872_needit.Empleado</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>Empleado</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-18 17:14:05</sys_created_on><sys_id>61c68b712f9ec110cef32ea62799b676</sys_id><sys_mod_count>2</sys_mod_count><sys_name>x_58872_needit.Empleado</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_user_role_61c68b712f9ec110cef32ea62799b676</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-18 17:24:51</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-1644033774</payload_hash>
+        <record_name>x_58872_needit.Empleado</record_name>
+        <reverted_from/>
+        <source>10eabe712f5ec110cef32ea62799b6bd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-18 17:24:51</sys_created_on>
+        <sys_id>b5fb07752f9ec110cef32ea62799b620</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f9e0f83c60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-18 17:24:51</sys_updated_on>
+        <type>Role</type>
+        <update_guid>bdfb07753b9ec1107c6ffc43c1b0101f</update_guid>
+        <update_guid_history>bdfb07753b9ec1107c6ffc43c1b0101f:-1644033774,7feb4b754f9ec110b112b4766ed552da:-829716717,04898bf15b9ec110a77196201418dd2b:-1644033774</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_58872_needit.Empleado">0efc4bb52f9ec110cef32ea62799b67e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-18 17:29:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>19b0375bea7d4a898c5209427cbd39d9</sys_id>
+        <sys_metadata>61c68b712f9ec110cef32ea62799b676</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.Empleado</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_user_role_61c68b712f9ec110cef32ea62799b676</sys_update_name>
+        <sys_update_version display_value="sys_user_role_61c68b712f9ec110cef32ea62799b676">b5fb07752f9ec110cef32ea62799b620</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-18 17:29:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
